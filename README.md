@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=riskykrnawan&label=Profile%20views&color=0e75b6&style=flat" alt="riskykrnawan" /> </p>
+
 <h1 align="center">Hi 👋, I'm Risky Kurniawan</h1>
 
 <h4 align="center"><figure><img src="https://qph.fs.quoracdn.net/main-qimg-c3128567bf340f0f6d82a44bf9806bed" width="100%" height="100px"></img></figure></h4>
